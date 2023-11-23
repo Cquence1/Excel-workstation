@@ -10,11 +10,11 @@ The landscape of hotel reservations has been reshaped by online booking channels
 
 Data cleaning:
 
-- Identify and handle missing values using Excel functions
+- Identify and handle missing values
 - Remove duplicates
 - Address inconsistencies using Excel's find and replace
 - Identify and handle outliers
-- Group the lead time and age with the "IF function."
+- Group the lead time and age using the "IF function."
 
 Data Analysis:
 
