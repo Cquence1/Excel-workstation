@@ -6,7 +6,7 @@ The surge in online hotel reservation channels has revolutionized booking option
 
 Business Case:
 
-The landscape of hotel reservations has been reshaped by online booking channels, influencing customer behavior significantly. A considerable portion of hotel reservations face disruptions through cancellations or no-shows, often stemming from reasons like altered plans and scheduling conflicts. The ease, and often affordability, of cancelling reservations is advantageous for guests but poses challenges for hotels, potentially diminishing revenue. The prevalent practice of offering free or low-cost cancellations adds to the complexity, requiring hotels to navigate a fine line between guest satisfaction and revenue optimisation.
+The landscape of hotel reservations has been reshaped by online booking channels, influencing customer behavior significantly. A considerable portion of hotel reservations face disruptions through cancellations or no-shows, often stemming from reasons like altered plans and scheduling conflicts. The ease, and often affordability, of cancelling reservations is advantageous for guests but poses a challenge for Future Tale Hotel, potentially diminishing revenue. The prevalent practice of offering free or low-cost cancellations adds to the complexity, requiring hotels to navigate a fine line between guest satisfaction and revenue optimisation.
 
 Data cleaning:
 
