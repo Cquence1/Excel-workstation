@@ -35,8 +35,7 @@ Booking deposit non-refund should be relatively tangible to discourage customers
 ![image](https://github.com/Cquence1/Excel-workstation/assets/122535644/d6271d33-87de-4c24-8d18-e9052e10efba)
 
 CONCLUSION:
-
-More information is needed on the demographic, geographic, psychographic, or behavioural characteristics of customers for deeper analysis to mitigate the cancelation rate.
+More information is needed on the demographic, geographic, psychographic, or behavioural characteristics of customers for deeper analysis to mitigate the cancellation rate.
 ![image](https://github.com/Cquence1/Excel-workstation/assets/122535644/3bf24a5c-9362-40cb-ba02-c9915d7a8d8c)
 
 
